@@ -1,26 +1,26 @@
-// ...existing code...
-
 ## Setup
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone [repository-url](https://github.com/Ceasar2001/RomanNumerals.git)
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <project-directory>
+    cd RomanNumerals
     ```
-3. Install the dependencies:
+3. create the necessary files:
     ```sh
-    npm install
+    input.txt
+    output.txt
     ```
 
 ## Running the Code
 
-1. Start the development server:
-    ```sh
-    npm start
-    ```
-2. Open your browser and navigate to `http://localhost:3000` to see the application running.
-
-// ...existing code...
+4. run the code in the code editor/vscode
+   
+   ```sh
+        for example input:
+        MCMXCIV + MMXXIV
+        DCCC - MMMCMXCIX
+        MMCDLXXVII * MMMDCCCLXXXVIII
+   ```
